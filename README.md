@@ -2,7 +2,7 @@
 
 Generative adversarial networks are a type of artificial intelligence algorithms used in unsupervised machine learning, implemented by a system of two neural networks competing against each other in a zero-sum game framework. I have used Deep Convolutional Generative Adversarial Networks to generate Pokemon images.
 
-![el](image1.jpg)
+![el](structure_cnn.png)
 
 # Dependencies
 * Tensorflow
